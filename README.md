@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Samuel 👋</h1>
-
+<h1 align="center">Hello, I'm Samuel Ayine 👋</h1>
 <h3 align="center"> Full-Stack Developer & Computer Science Graduate</h3>
 
 <p align="center">
