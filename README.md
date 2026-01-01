@@ -43,11 +43,11 @@ I build scalable, high-performance web applications with clean architecture and 
 
 ### 🌱 What I'm Up To
 
-- 🔭 **Building:** Scalable full-stack applications with modern architectures
-- 🌱 **Learning:** Advanced system design patterns and AI integration
-- 👯 **Collaborating:** On open-source projects and innovative web solutions
-- 🤔 **Exploring:** Machine learning applications for web development
-- 💡 **Interested:** In backend optimization and cloud infrastructure
+- 🔭 **Building:** Backend-focused full-stack applications and APIs
+- 🌱 **Learning:** System design and modern backend practices
+- 👯 **Collaborating:** On academic, personal, and open-source projects
+- 🤔 **Exploring:** Data-driven and scalable web application ideas
+- 💡 **Interested:** Backend optimization, databases, and cloud-ready architectures
 
 ---
 ### 📫 Let's Connect
