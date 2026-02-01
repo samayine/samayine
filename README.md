@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Samuel Ayine 👋</h1>
-<h3 align="center"> Full-Stack Developer & Computer Science Graduate</h3>
+<h3 align="center"> Software Developer | Computer Science </h3>
 
 <p align="center">
 I build scalable, high-performance web applications with clean architecture and modern technologies. Passionate about problem-solving, writing clean code ✨, and designing end-to-end systems that deliver real impact. With strong expertise in backend development and system architecture, I'm constantly exploring emerging technologies to enhance my skills as a developer and engineer.
@@ -48,8 +48,7 @@ I build scalable, high-performance web applications with clean architecture and 
 ### 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-ayine)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiayine3@gmail.com)
-
+📧 **Email:** [samiayine3@gmail.com](mailto:samiayine3@gmail.com)
 ---
 
 ### ⚡ Fun Fact
