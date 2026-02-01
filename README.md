@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Samuel Ayine 👋</h1>
-<h3 align="center">Full-Stack Developer & Computer Science Graduate</h3>
+<h3 align="center"> Full-Stack Developer & Computer Science Graduate</h3>
 
 <p align="center">
 I build scalable, high-performance web applications with clean architecture and modern technologies. Passionate about problem-solving, writing clean code ✨, and designing end-to-end systems that deliver real impact. With strong expertise in backend development and system architecture, I'm constantly exploring emerging technologies to enhance my skills as a developer and engineer.
@@ -35,25 +35,20 @@ I build scalable, high-performance web applications with clean architecture and 
 
 ---
 
-### 🌱 Currently
+### 🌱 What I'm Up To
 
-- 🔭 **Building:** Backend-focused full-stack applications and APIs
-- 🌱 **Learning:** System design and modern backend practices
-- 👯 **Collaborating:** On academic, personal, and open-source projects
-- 🤔 **Exploring:** Data-driven and scalable web application ideas
-- 💡 **Interested:** Backend optimization, databases, and cloud-ready architectures
+- 🔭 **Building:** Backend-focused full-stack applications and APIs  
+- 🌱 **Learning:** System design and modern backend practices  
+- 👯 **Collaborating:** On academic, personal, and open-source projects  
+- 🤔 **Exploring:** Data-driven and scalable web application ideas  
+- 💡 **Interested:** Backend optimization, databases, and cloud-ready architectures  
 
 ---
 
-### 📫 Connect With Me
+### 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-ayine "Connect on LinkedIn" target="_blank" rel="noopener noreferrer")
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/samayne/ "View my LeetCode profile" target="_blank" rel="noopener noreferrer")
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samuel-Ayine "View my GitHub profile" target="_blank" rel="noopener noreferrer")
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sam_ayine "Follow on Instagram" target="_blank" rel="noopener noreferrer")
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiayine3@gmail.com "Send me an email")
-
-**Email:** [samiayine3@gmail.com](mailto:samiayine3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-ayine)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiayine3@gmail.com)
 
 ---
 
