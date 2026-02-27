@@ -49,6 +49,7 @@ I build scalable, high-performance web applications with clean architecture and 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-ayine)  
 📧 **Email:** [samiayine3@gmail.com](mailto:samiayine3@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=firefox&logoColor=white)](https://samayine.dev)
 
 ---
 
